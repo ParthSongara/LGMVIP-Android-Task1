@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">covid19 tracker</string>
+    <string name="lgm">LGM</string>
+    <string name="cases_details">Active: %1$d, Confirmed: %2$d, Deceased: %3$d, Recovered: %4$d</string>
+    <string name="covid19_tracker">Covid19 Tracker</string>
+    <string name="districtname">DistrictName</string>
+    <string name="casedetails">CaseDetails</string>
+
+</resources>
